@@ -28,6 +28,7 @@ license = "MIT OR Apache-2.0"
 [workspace.dependencies]
 bytemuck = "1.16.1"
 candle-core = { version = "0.6.0" }
+cfavml = "0.1.2"
 clap = { version = "4.5.11", features = ["derive"] }
 colored = "2.1.0"
 console_error_panic_hook = "0.1.7"

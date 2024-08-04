@@ -667,6 +667,7 @@ dependencies = [
  "burn-autodiff",
  "burn-common",
  "burn-tensor",
+ "cfavml",
  "derive-new",
  "libm",
  "matrixmultiply",
@@ -899,6 +900,12 @@ dependencies = [
  "jobserver",
  "libc",
 ]
+
+[[package]]
+name = "cfavml"
+version = "0.1.2"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "c3ebfb306cdd48486c5443970c19551e7eb7b478010788fcb9c0685782aa4879"
 
 [[package]]
 name = "cfg-expr"
